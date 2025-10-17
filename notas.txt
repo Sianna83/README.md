@@ -1,0 +1,6 @@
+
+- Entender o conceito de Step Functions e estados
+- Criar workflow com tarefas automatizadas
+- Testar execução com dados simulados
+- Ajustar erros observados durante os testes
+- Documentar cada passo e capturas de tela
